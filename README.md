@@ -15,4 +15,4 @@ Este proyecto es una implementación de CausalImpact en R, una herramienta de an
 
 Efectos significativos pero con una gran incertidumbre. 
 
-[![CausalImpact](`images/resultado.JPG`)
+`result/resultado.JPG`
